@@ -8,12 +8,19 @@
 <items>
 
 
+<item>
+<title>[COLOR white][B]•[/B][/COLOR][COLOR red][B] XXX TV[/COLOR][/B][COLOR white][B]  SD[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://ero-tv.org/wp-content/uploads/2014/09/eurotictv.gif</thumbnail>
+<link>rtmp://5.196.200.228:1939/live/ playpath=n187 swfUrl=http://ero-tv.org/uppod/uppod32.swf live=1 pageUrl=http://ero-tv.org/eurotic_tv_online/</link>
+</item>
+
 
 <item>
 <title>[COLOR white][B]•[/B][/COLOR][COLOR red][B] EUROTIC TV[/COLOR][/B][COLOR white][B]  SD[/COLOR][/B]</title>
 <fanart></fanart>
 <thumbnail>http://ero-tv.org/wp-content/uploads/2014/09/eurotictv.gif</thumbnail>
-<link>rtmp://5.196.200.228:1939/live/ playpath=n187 swfUrl=http://ero-tv.org/uppod/uppod32.swf live=1 pageUrl=http://ero-tv.org/eurotic_tv_online/</link>
+<link>http://186.3.234.131:8000/play/a011</link>
 </item>
 
 <item>
